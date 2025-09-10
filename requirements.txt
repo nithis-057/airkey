@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+PySide6
+pynput
+pygame
+#import all these libraries in a virtual environment
